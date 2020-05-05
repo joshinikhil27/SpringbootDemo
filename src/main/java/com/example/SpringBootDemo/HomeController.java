@@ -9,7 +9,7 @@ public class HomeController {
 	@RequestMapping("/home")
 	public String homePage()
 	{
-		return "Eight Version";
+		return "Ninth Version";
 	}
 
 	
